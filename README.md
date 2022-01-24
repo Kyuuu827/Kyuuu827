@@ -39,7 +39,7 @@
 
 <p>
   <a href="https://velog.io/@lck0827/" target="_blank"><img src="https://img.shields.io/badge/Blog-007474?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:lck0827@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jewon119-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:lck0827@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lck0827-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ![Chankyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuuu827&show_icons=true&theme=radical)
