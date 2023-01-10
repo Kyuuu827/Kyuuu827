@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql%20Cordova&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MongoDB%20Cordova&logoColor=black"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 
